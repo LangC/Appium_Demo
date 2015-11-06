@@ -1,0 +1,10 @@
+[caps]
+platformName = "Android"
+deviceName = "81CEBMB27SZ5"
+appActivity = "com.tencent.mm.ui.LauncherUI"
+appPackage = "com.tencent.mm"
+app = "/Users/liangcui/Downloads/weixin.apk"
+
+[appium_lib]
+sauce_username = false
+sauce_access_key = false
